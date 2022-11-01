@@ -1,0 +1,51 @@
+#header{
+    background-color: black;
+    color:white;
+    font-size:16;
+    padding:10px;
+    width:550px;
+    
+}
+#shop img{
+width:190px;
+height:190px;
+border-radius:15px;
+
+    
+}
+#shop{
+    background-color:black;
+    color:white;
+    width:550px;
+    padding:10px;
+    float:left;
+}
+body a{
+    color:skyblue;
+    text-decoration:none;
+}
+#nav{
+    float:right;
+    width :120px;
+    
+}
+#ending{
+    clear:both;
+}
+#footer{
+    background-color:orange;
+    text-align:right;
+    width:550px;
+    padding:10px;
+}
+#ending img{
+width:550px;
+height:350px;
+    
+}
+#ending{
+    font-weight:bold;
+}
+.selected{
+    font-weight:bold;
+}

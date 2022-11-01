@@ -1,0 +1,49 @@
+#header{
+    background-color:skyblue;
+    font: Arial;
+    padding:10px;
+    text-align:center;
+    color:white;
+    width:550px;
+  }
+  body{
+      background-color:white;
+      color:black;
+      font-family:Times new roman, Arial, Helvetica, sans-serif ;
+  }
+#nav{
+    width:120px;
+    float:right;
+}
+#main{
+    width: 430px;
+    float:left;
+}
+#footer{
+    clear: both;
+    padding :10px;
+    background-color:orange;
+    text-align:right;
+    width:550px
+    
+}
+img{
+    height:350px;
+    width:550px;
+}
+ul{
+    
+    list-style-type:none;
+    padding:0;
+    
+}
+a{
+    text-decoration:none;
+    color:maroon;
+}
+.selected{
+    font-weight:bold;
+}
+h1,h3,{
+    margin:0;
+}

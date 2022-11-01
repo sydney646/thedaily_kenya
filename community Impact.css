@@ -1,0 +1,37 @@
+#header{
+    background-color: skyblue;
+    font; Sans-serif;
+    color:white;
+    padding :10px;
+    text-align:center;
+    width:550px;
+    
+}
+#nav{
+    padding:10px;
+    float:right;
+    width:120px;
+}
+ul a {
+    text-decoration:none;
+}
+#main{
+color: black;
+    float:left;
+    background-color: White;
+    width:550px;
+    
+}
+#main img{
+height:350px;
+width :550px;
+    
+}
+
+#footer{
+    clear:both;
+    background-color:orange;
+    text-align:right;
+    width:550px;
+    padding:10px;
+}
